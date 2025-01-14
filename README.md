@@ -1,5 +1,5 @@
 # 🍽️ Restaurant Management System 🍽️
-
+![License: MIT](https://img.shields.io/badge/License-MIT-green) ![Java](https://img.shields.io/badge/Code-Java-red) ![Java Swing](https://img.shields.io/badge/UI-Java%20Swing-blue)
 
 ## ✨ Overview
 
