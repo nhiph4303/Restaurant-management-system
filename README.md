@@ -60,7 +60,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions, feedback, or suggestions, feel free to reach out to us:
 
 - 📧 Email: ph.hnhi0403@gmail.com
-- 🌐 LinkedIn: Nhi Phan
+- 🌐 LinkedIn: https://www.linkedin.com/in/nhiphan4303/
 - 📷 Instagram: hani.p__
   
 We appreciate your interest in the Restaurant Management System! 💖
