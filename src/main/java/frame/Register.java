@@ -17,7 +17,7 @@ import model.Owner;
 
 public class Register extends javax.swing.JFrame {
 
-    private ManageOwner manageOwner ;
+    private ManageOwner manageOwner;
 
     public Register(ManageOwner manageOwner) {
         initComponents();
