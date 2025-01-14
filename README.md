@@ -5,8 +5,6 @@
 
 The **Restaurant Management System** is a software solution designed to streamline the daily operations of a restaurant. It offers features for managing food items, customers, billing, and revenue, helping restaurants operate efficiently and effectively.
 
----
-
 ## 🌟 Features
 
 1. **🔑 Login and Account Registration**  
@@ -29,7 +27,6 @@ The **Restaurant Management System** is a software solution designed to streamli
 5. **📊 Revenue Management**  
    - Track and analyze restaurant revenue for better decision-making.
    ![Revenue](screenPicture/revenue.png)
----
 
 ## 🗂️ Project Structure
 
@@ -45,17 +42,14 @@ The **Restaurant Management System** is a software solution designed to streamli
 - **📄 DemoProject.wmv**: Demo video showcasing the project.
 - **📄 pom.xml**: Maven configuration file.
 
----
 ## 👩‍💻 Authors
 
 - 🌟 Trần Mai Anh
 - 🌟 Phan Ngọc Hạnh Nhi
   
----
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
 ## 📬 Contact
 For any questions, feedback, or suggestions, feel free to reach out to us:
 
