@@ -55,7 +55,6 @@ For any questions, feedback, or suggestions, feel free to reach out to us:
 
 - 📧 Email: ph.hnhi0403@gmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/nhiphan4303/
-- 📷 Instagram: https://www.instagram.com/hani.p__/
   
 We appreciate your interest in the Restaurant Management System! 💖
 
